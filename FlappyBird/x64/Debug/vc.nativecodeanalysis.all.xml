@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Lenovo\source\repos\FlappyBird\</FILEPATH>
+      <FILENAME>Source.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "Tower::dy" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>Tower::{ctor}</FUNCTION>
+    <DECORATED>??0Tower@@QEAA@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Tower::dy</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Lenovo\source\repos\FlappyBird\</FILEPATH>
+      <FILENAME>Source.cpp</FILENAME>
+      <LINE>57</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Переменная "bird::life" не инициализирована. Всегда инициализируйте переменную-член (type.6).</DESCRIPTION>
+    <FUNCTION>bird::{ctor}</FUNCTION>
+    <DECORATED>??0bird@@QEAA@XZ</DECORATED>
+    <FUNCLINE>57</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>bird::life</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

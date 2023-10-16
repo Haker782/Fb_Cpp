@@ -1,0 +1,50 @@
+﻿  Source.cpp
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(20,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(20,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(21,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(21,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(34,1): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(37,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(37,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(39,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(39,18): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(42,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(42,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(45,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(45,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(65,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(65,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(84,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(85,1): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(89,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(89,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(94,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(94,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(119,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(151,15): warning C4305: =: усечение из "double" в "float"
+C:\Users\Lenovo\source\repos\FlappyBird\Source.cpp(195,31): warning C4244: аргумент: преобразование "sf::Int64" в "sf::Int32", возможна потеря данных
+  FlappyBird.vcxproj -> C:\Users\Lenovo\source\repos\FlappyBird\x64\Debug\FlappyBird.exe
